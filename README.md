@@ -1,5 +1,5 @@
 
-# Simple Chainlink Lottery on Sepolia
+# Simple Chainlink Lottery on Sepolia with Remix
 
 This is a simple decentralized lottery smart contract using Chainlink VRF v2.5 built for the Sepolia testnet.
 
